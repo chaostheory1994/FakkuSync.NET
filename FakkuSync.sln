@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakkuSync.NET", "FakkuSync.NET\FakkuSync.NET.csproj", "{A44410BF-BCC9-4557-B4A0-9D8B23CD20A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakkuSync.Core", "FakkuSync.Core\FakkuSync.Core.csproj", "{022D4EFA-8272-4D12-B95D-001DD6315826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakkuSync.Core", "FakkuSync.Core\FakkuSync.Core.csproj", "{022D4EFA-8272-4D12-B95D-001DD6315826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakkuSync.Console", "FakkuSync.Console\FakkuSync.Console.csproj", "{1B0FF5A1-0F8E-469B-A8BF-564711F065A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{022D4EFA-8272-4D12-B95D-001DD6315826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{022D4EFA-8272-4D12-B95D-001DD6315826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{022D4EFA-8272-4D12-B95D-001DD6315826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0FF5A1-0F8E-469B-A8BF-564711F065A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0FF5A1-0F8E-469B-A8BF-564711F065A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0FF5A1-0F8E-469B-A8BF-564711F065A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0FF5A1-0F8E-469B-A8BF-564711F065A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
